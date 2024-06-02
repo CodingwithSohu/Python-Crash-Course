@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Exersise2.py
 
 Make variable and enter your name and print it out!
