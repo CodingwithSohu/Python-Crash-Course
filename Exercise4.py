@@ -1,4 +1,3 @@
-
 """Exercise4.py
 
 Write for loop till 10
