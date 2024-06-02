@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-"""Exercise3.ipynb
+"""Exercise3.py
 
 what this program is doing
 """
