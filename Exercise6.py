@@ -1,4 +1,4 @@
-"""Exercise6.ipynb
+"""Exercise6.py
 
 Make a dictionary
 """
