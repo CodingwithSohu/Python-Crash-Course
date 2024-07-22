@@ -1,6 +1,6 @@
 """Exercise1.py
 
-print hello worl
+print hello world
 """
 
 
